@@ -33,6 +33,8 @@ Auslagerungen von Speicher
 Verschieben der tempdb
 USE master;  
 GO  
+
+
 ALTER DATABASE tempdb   
 MODIFY FILE (NAME = tempdev, FILENAME = 'E:\SQLData\tempdb.mdf');  
 GO  
