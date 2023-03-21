@@ -26,3 +26,13 @@
 ### RecoveryModel
 ### Backuptypen
 
+## Restore
+### auf Sek restore
+### Fragementsicherung
+### Snapshot
+### Zeitplan gem‰ﬂ Firmenregeln
+
+## Security
+### Login vs User
+### Rollen Schemas
+
