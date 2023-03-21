@@ -7,7 +7,7 @@
 ## Serversettings
 ### MAXDOP
 ### RAM
-###DB fade
+### DB Pfade
 
 ## SystemDBs
 ### regelm Sicherung
@@ -21,4 +21,8 @@
 
 ## Agent
 ### Alerts, Email, Operatoren, Proxykonten, Error und Ebenen
- 
+
+## Backup
+### RecoveryModel
+### Backuptypen
+
