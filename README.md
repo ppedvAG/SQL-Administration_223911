@@ -35,4 +35,27 @@
 ## Security
 ### Login vs User
 ### Rollen Schemas
+### Logins transferieren
+
+## Contained DAtabase
+
+## Audit
+
+## Hochverfügbarkeit
+### Übersicht
+### LogShipping Spiegeln, AVG, CLuster
+### Vor und Nachteile
+
+## Richtlinien
+
+## Indizes
+
+## Live Monitoring
+### DMVs
+
+## Messdaten sammeln
+
+
+## Xevents
+
 
